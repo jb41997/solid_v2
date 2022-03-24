@@ -1,4 +1,7 @@
-## Solid Data Solutions business website created with React
+## Solid Data Solutions business website 
+Created with React
+
+
 
 # Getting Started with Create React App
 
