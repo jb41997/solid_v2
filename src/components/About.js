@@ -15,7 +15,7 @@ const About = () => {
                         full-stack web application development. He fully understands all phases and aspects 
                         of implementing and operating a successful GIS and strives to stay on the forefront of 
                         the latest trends in software development. His hobbies include mountain biking, cycling, 
-                        golf, the occasional adventure race, nerding out on a video game, 
+                        golf, the occasional adventure race, nerding out on video games, 
                         and delving into blockchain and crypto.
                     </p>
                 </div>
